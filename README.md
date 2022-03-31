@@ -1,5 +1,5 @@
 # 💼 Responsive Mini Portfolio
-## [Watch it on youtube]()
+## [Watch it on youtube](https://youtu.be/mq0xJxOTiYo)
 ### 💼 Responsive Mini Portfolio
 
 - Responsive mini portfolio website Using HTML CSS & JavaScript
